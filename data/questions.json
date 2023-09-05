@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "question": "What is the real name of Batman?",
+      "options": ["Bruce Wayne", "Clark Kent", "Barry Allen", "Peter Parker"],
+      "correctAnswer": 0,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "Which superhero has super speed and is known as the 'Scarlet Speedster'?",
+      "options": ["Superman", "Green Lantern", "The Flash", "Aquaman"],
+      "correctAnswer": 2,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "What is Wonder Woman's weapon of choice?",
+      "options": ["Sword", "Hammer", "Lasso of Truth", "Bow and Arrow"],
+      "correctAnswer": 2,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "Which villain is known for his obsession with riddles and puzzles, often battling Batman?",
+      "options": ["The Joker", "Two-Face", "The Riddler", "Lex Luthor"],
+      "correctAnswer": 2,
+      "difficulty": "medium",
+      "points": 20
+    },
+    {
+      "question": "What is the real name of Superman?",
+      "options": ["Bruce Wayne", "Clark Kent", "Barry Allen", "Peter Parker"],
+      "correctAnswer": 1,
+      "difficulty": "medium",
+      "points": 20
+    },
+    {
+      "question": "Which superhero is an Amazon warrior princess and hails from the island of Themyscira?",
+      "options": ["Supergirl", "Batgirl", "Hawkgirl", "Wonder Woman"],
+      "correctAnswer": 3,
+      "difficulty": "medium",
+      "points": 20
+    },
+    {
+      "question": "Who is the arch-nemesis of Green Lantern, possessing a yellow power ring?",
+      "options": ["The Riddler", "The Penguin", "Sinestro", "Darkseid"],
+      "correctAnswer": 2,
+      "difficulty": "hard",
+      "points": 30
+    },
+    {
+      "question": "Which superhero is known for his aquatic abilities and is the king of Atlantis?",
+      "options": ["The Flash", "Green Lantern", "Aquaman", "Cyborg"],
+      "correctAnswer": 2,
+      "difficulty": "hard",
+      "points": 30
+    }
+  ]
+}
